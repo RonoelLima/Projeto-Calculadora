@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=description>
+    <link rel="shortcut icon" href="/public/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./style/style.css">
+
+    <!--==================== UNICONS ====================-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <title>Calculadora</title>
+</head>
+ 
+<body>
+
+    <main id="main">
+        <section>
+            <input id="telaunica" min="0" max="100" step=".01" placeholder="Display" value="" class="tela inpt12">   
+        </section>
+
+
+        <section class="teclado">
+        
+        <div><button class="btn-function" onclick="deletar()" id="deletar"><i class="uil uil-backspace"></i></button></div>
+        <div><button class="btn-function" onclick="resetar()" id="deletar"><i class="uil uil-trash"></i></button></div>
+        <div><button class="btn-function" onclick="resto()" id="resto">%</button></div>
+        <div><button class="btn-function" onclick="dividir()" id="dividir">/</button></div>
+        <div><button class="btn-number" onclick="btn7()" id="number7">7</button></div>
+        <div><button class="btn-number" onclick="btn8()" id="number8">8</button></div>
+        <div><button class="btn-number" onclick="btn9()" id="number9">9</button></div>
+        <div><button class="btn-function" onclick="multiplicar()" id="multiplicar">*</button></div>
+        <div><button class="btn-number" onclick="btn4()" id="number4">4</button></div>
+        <div><button class="btn-number" onclick="btn5()" id="number5">5</button></div>
+        <div><button class="btn-number" onclick="btn6()"  id="number6">6</button></div>
+        <div><button class="btn-function" onclick="subtrair()" id="subtrair">-</button></div>
+        <div><button class="btn-number" onclick="btn1()" id="number1">1</button></div>
+        <div><button class="btn-number" onclick="btn2()" id="number2">2</button></div>
+        <div><button class="btn-number" onclick="btn3()" id="number3">3</button></div>
+        <div><button class="btn-function" onclick="somar()" id="somar">+</button></div>
+        <div><button class="btn-number" onclick="btn0()" id="numberx"></button></div>
+        <div><button class="btn-number" onclick="btn0()" id="number0">0</button></div>
+        <div><button class="btn-number" onclick="btn0()" id="numberx"></button></div>
+        <div><button class="btn-function" onclick="resultado()" id="igual">=</button></div>
+          
+        </section>
+
+        <section >
+            <audio class="midia" controls>
+            <source src="./mp3/Tyga-Rack-City-via-Naijafinix.com_.mp3" type="audio/ogg">
+            </audio>
+        </section>
+
+        <section><h1>Tecnologias</h1></section>
+
+        <section >
+            <img class="tec" src="./img/Figma.png" alt="Figma">
+            <img class="tec" src="./img/HTML5.png" alt="HTML">
+            <img class="tec" src="./img/CSS3.png" alt="CSS3">
+            <img class="tec" src="./img/Javascript.png" alt="JavaScript">
+            <img class="tec" src="./img/Firebase.png" alt="Firebase">
+        </section>
+
+        <img class="Ronoel" src="./img/Ronoel.png">
+        <p>DEVELOPER BY </p>
+        
+
+    </main>
+    <script src="./calculadora.js"></script>
+</body>
+</html>
