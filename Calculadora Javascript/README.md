@@ -12,3 +12,4 @@ Pontos para Correção
 
 O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
 
+<img  src='./Figma/iPhone/calculadora.png'>
