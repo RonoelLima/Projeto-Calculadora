@@ -189,31 +189,7 @@ function resultado(){
   }
   
 
-      
-
-
-      
-      
-  
-
-  // var numero2 = 10
-  // var numero1 = 20
-  // let operacao = "+"
-  
-  
-  
-  // function calcual(){ 
     
-  //   if(operacao == '+')
-  // { numero1 + numero2} 
-  //   else if(operacao == "-")
-  //     { numero1 - numero2} 
-  //       else if(operacao == "*")
-  //         { numero1 * numero2}
-  //         else if(operacao == "/")
-  //         { numero1 / numero2} 
-  //           else if(operacao == "%") 
-  //            { numero1 % numero2}      }
 
 
 
