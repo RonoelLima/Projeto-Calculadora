@@ -4,7 +4,7 @@
   Construção de uma calculadora com javascript puro, primeiro projeto desenvolvido no início da minha jornada como programador.
 </p>
 
-<h2> 2. Funções e Metodos Utilizados no Projeto </h2>
+<h2> 2. Funções e Métodos Utilizados </h2>
 
   <li>innerHTML;</li>
   <li>Operador Ternário;</li>
@@ -17,7 +17,7 @@
   <li>document.getElementById;</li>
   <li>Number;</li>
 
-<h2>3. Tecnologias Utilizadas no Projeto</h2>
+<h2>3. Tecnologias Utilizadas </h2>
 
   <li>Figma - Protótipo/Planejamento da Interface; </li>
   <li>HTML5;</li>
@@ -32,7 +32,7 @@
   <p>Link do Projeto após o deploy no firebase hosting: <a href="https://calculadorajsltech.web.app/">Link</a> </p> 
 
 
-<h3>Imagem do Projeto</h3>
+<h3>Protótipo da Interface</h3>
 
   <img  src='./Figma/iPhone/calculadora.png'>
 
