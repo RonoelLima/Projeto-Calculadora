@@ -25,18 +25,18 @@
   JavaScript Vanilla;
   Firebase
 
-Link do Projeto no Figma para visualização: link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1.
+  Link do Projeto no Figma para visualização: link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1.
 
-Link do Projeto após o deploy no firebase hosting: https://calculadorajsltech.web.app/ 
+  Link do Projeto após o deploy no firebase hosting: https://calculadorajsltech.web.app/ 
 
-Pontos para Correção
+  Pontos para Correção
 
-O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
+  O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
 
 Imagem do Projeto
 
-<img  src='./Figma/iPhone/calculadora.png'>
+  <img  src='./Figma/iPhone/calculadora.png'>
 
 Desafios
 
-Para construir esse projeto o primeiro passo foi desenvolver o protótipo da interface, no segundo momento pensei em construir a lógica com base no processo de digitação dos números no display da calculadora.
+  Para construir esse projeto o primeiro passo foi desenvolver o protótipo da interface, no segundo momento pensei em construir a lógica com base no processo de      digitação dos números no display da calculadora.
