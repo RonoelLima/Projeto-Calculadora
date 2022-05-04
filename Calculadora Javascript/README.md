@@ -17,6 +17,10 @@
   <li>document.getElementById;</li>
   <li>Number;</li>
 
+<h2> Eventos </h2>
+
+<li> Onclick </li>
+
 <h2>3. Tecnologias Utilizadas </h2>
 
   <li>Figma - Protótipo/Planejamento da Interface; </li>
