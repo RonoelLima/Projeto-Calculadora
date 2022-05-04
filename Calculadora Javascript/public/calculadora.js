@@ -164,7 +164,7 @@ function resultado(){
   console.log(numero2)
   let numero1 = index !== 0  ?  Number(tela.substr(0, operador -= 1)) :  Number(NewTela.substr(0, operador -= 1)) //substr(0,1) extrai os elementos da string a partir do indice 0 até o indice determinado
   console.log(numero1)
-  let teste = ( operacao === '-' & operacaoindex0 === '-') ? ((numero1 + numero2) * -1 ) : ( operacao === '+' & operacaoindex0 === '+') ? (numero1 + numero2) : ( operacao === '+' & operacaoindex0 === '-') ? (numero2 - numero1) : ( operacao === '-' & operacaoindex0 === '+') ? (numero1 - numero2) : (operacao === '+' )  ? numero1 + numero2: (operacao === '-' ) ? numero1 - numero2 : (operacao === '*') ? numero1 * numero2 : (operacao === '/') ? numero1 / numero2  : (operacao === '%') ? ((numero1 / numero2)*100) + "%"  : (operacao === '-+') ? numero2 - numero1 : (operacao === '--') ?  ((numero2 + numero1) * -1): false
+  let teste = ( operacao === '-' & operacaoindex0 === '-') ? ((numero1 + numero2) * -1 ): ( operacao === '-' & operacaoindex0 === '*') ? ((numero1 * numero2) * -1 ) : ( operacao === '+' & operacaoindex0 === '+') ? (numero1 + numero2) : ( operacao === '+' & operacaoindex0 === '-') ? (numero2 - numero1) : ( operacao === '-' & operacaoindex0 === '+') ? (numero1 - numero2) : (operacao === '+' )  ? numero1 + numero2: (operacao === '-' ) ? numero1 - numero2 : (operacao === '*') ? numero1 * numero2 : (operacao === '/') ? numero1 / numero2  : (operacao === '%') ? ((numero1 / numero2)*100) + "%"  : (operacao === '-+') ? numero2 - numero1 : (operacao === '--') ?  ((numero2 + numero1) * -1): false
   console.log(teste)  
   let displayOne = document.getElementById('telaunica')
   displayOne.value = teste 

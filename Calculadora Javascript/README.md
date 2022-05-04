@@ -1,14 +1,39 @@
 # Projeto-Calculadora
 
+1. Introdução
+
 Construção de uma calculadora com javascript puro, primeiro projeto desenvolvido no início da minha jornada como programador.
 
-Foi utilizado a ferramenta Figma para fazer o protótipo do projeto, disnponível no link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1 para visualização.
+2. Funções e Metodos Utilizadas no Projeto
 
-Foi utilizado o serviço de hosting do firebase para hospedar o projeto no link: https://calculadorajsltech.web.app/ 
+innerHTML;
+Operador Ternário;
+Operadores Lógicos;
+Regex;
+split();
+slice();
+join();
+shift();
+document.getElementById();
+Number();
+
+3. Tecnologias Utilizadas no Projeto
+
+1. Figma - Protótipo/Planejamento da Interface 
+2. HTML5;
+3. CSS3;
+4. JavaScript Vanilla;
+5. Firebase
+
+Link do Projeto no Figma para visualização: link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1.
+
+Link do Projeto após o deploy no firebase hosting: https://calculadorajsltech.web.app/ 
 
 Pontos para Correção
 
 O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
+
+Imagem do Projeto
 
 <img  src='./Figma/iPhone/calculadora.png'>
 
