@@ -1,83 +1,43 @@
-# Projeto-Calculadora
+<h1> # Projeto-Calculadora </h1>
 
-1. Introdução
-
-<<<<<<< HEAD
-    Construção de uma calculadora com javascript puro, primeiro projeto desenvolvido no início da minha jornada como programador.
-
-2. Funções e Metodos Utilizadas no Projeto
-
-    innerHTML;
-    Operador Ternário;
-    Operadores Lógicos;
-    Regex;
-    split;
-    slice;
-    join;
-    shift;
-    document.getElementById;
-    Number;
-
-3. Tecnologias Utilizadas no Projeto
-
-    Figma - Protótipo/Planejamento da Interface 
-    HTML5;
-    CSS3;
-    JavaScript Vanilla;
-    Firebase
-
-    Link do Projeto no Figma para visualização: link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1.
-
-    Link do Projeto após o deploy no firebase hosting: https://calculadorajsltech.web.app/ 
-
-    Pontos para Correção
-
-    O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
-
-Imagem do Projeto
-
-    <img  src='./Figma/iPhone/calculadora.png'>
-
-Desafios
-
-    Para construir esse projeto o primeiro passo foi desenvolver o protótipo da interface, no segundo momento pensei em construir a lógica com base no processo de digitação dos números no display da calculadora.
-=======
+<p> 
   Construção de uma calculadora com javascript puro, primeiro projeto desenvolvido no início da minha jornada como programador.
+</p>
 
-2. Funções e Metodos Utilizadas no Projeto
+<h2> 2. Funções e Metodos Utilizadas no Projeto </h2>
 
-  innerHTML;
-  Operador Ternário;
-  Operadores Lógicos;
-  Regex;
-  split();
-  slice();
-  join();
-  shift();
-  document.getElementById();
-  Number();
+  <li>innerHTML;</li>
+  <li>Operador Ternário;</li>
+  <li>Operadores Lógicos;</li>
+  <li>Regex;</li>
+  <li>split;</li>
+  <li>slice;</li>
+  <li>join;</li>
+  <li>shift;</li>
+  <li>document.getElementById;</li>
+  <li>Number;</li>
 
-3. Tecnologias Utilizadas no Projeto
+<h2>3. Tecnologias Utilizadas no Projeto</h2>
 
-  Figma - Protótipo/Planejamento da Interface 
-  HTML5;
-  CSS3;
-  JavaScript Vanilla;
-  Firebase
+  <li>Figma - Protótipo/Planejamento da Interface </li>
+  <li>HTML5;</li>
+  <li>CSS3;</li>
+  <li>JavaScript Vanilla;</li>
+  <li>Firebase</li>
 
-  Link do Projeto no Figma para visualização: link: https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1.
+  <p>Link do Projeto no Figma para visualização: <a href="https://www.figma.com/file/hpMRFnxBzV71MhFTvfHpZc/Untitled?node-id=0%3A1">link:</a> </p>
 
-  Link do Projeto após o deploy no firebase hosting: https://calculadorajsltech.web.app/ 
+  <p>Link do Projeto após o deploy no firebase hosting: <a href="https://calculadorajsltech.web.app/">Link</a> </p> 
 
-  Pontos para Correção
+  <h3>Pontos para Correção</h3>
 
-  O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.
+  <p>O navegador safari não carrega adequadamente o CSS do projeto, apresentando algumas falhas.</p>
 
-Imagem do Projeto
+<h3>Imagem do Projeto</h3>
 
   <img  src='./Figma/iPhone/calculadora.png'>
 
-Desafios
+<h3>Desafios</h3>
 
-  Para construir esse projeto o primeiro passo foi desenvolver o protótipo da interface, no segundo momento pensei em construir a lógica com base no processo de      digitação dos números no display da calculadora.
->>>>>>> f15682df0eb0a0983f44193b123ef8fc107f4dc6
+  <p>Para construir esse projeto o primeiro passo foi desenvolver o protótipo da interface, no segundo momento pensei em construir a lógica com base no processo de      digitação dos números no display da calculadora.</p>
+
